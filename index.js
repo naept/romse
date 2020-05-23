@@ -4,7 +4,7 @@ function launchRequest (request, engine){
 
     url += requestElements.join(engine.union);
     url += engine.suffix;
-    window.open(url);
+    return window.open(url);
 }
 
 function cleanRequest (request){
