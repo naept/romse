@@ -1,6 +1,6 @@
 {
   "name": "romse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package allows sending the same request to multiple search engines and open a browser tab for each engine",
   "main": "index.js",
   "scripts": {
